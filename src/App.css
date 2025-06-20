@@ -1,0 +1,26 @@
+
+.info{
+
+          width: 300px;
+          padding: 10px;
+          margin: 8px 0;
+          border: 1px solid #ccc;
+          border-radius: 8px;
+          font-size: 16px;
+          outline: none;
+          transition: border 0.3s ease;
+        
+}
+button:hover{
+     cursor: pointer;
+}
+.inf{
+     
+     height: 30px;
+      width:150px;
+     border: 1px solid #ccc;
+          border-radius: 8px;
+          font-size: 16px;
+          outline: none;
+          transition: border 0.3s ease;
+}
